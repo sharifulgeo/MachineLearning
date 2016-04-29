@@ -1,0 +1,59 @@
+One potential answer to this question comes from the Analytics 1305 [2] documentation:
+Kernel Density Estimation and Non-parametric Bayes Classifier
+K-Means
+Kernel Principal Components Analysis
+Linear Regression
+Neighbors (Nearest, Farthest, Range, k, Classification)
+Non-Negative Matrix Factorization
+Support Vector Machines
+Dimensionality Reduction
+Fast Singular Value Decomposition
+Decision Tree
+Bootstapped SVM
+
+The 11 algorithms implemented by 11Ants [1] provide another potential answer for this question:
+Decision Tree
+Gaussian Processes
+Logistic Regression
+Logit Boost
+Model Tree
+Naïve Bayes
+Nearest Neighbors
+PLS
+Random Forest
+Ridge Regression
+Support Vector Machine
+
+Another potential answer comes from the algorithms in Oracle Data Mining [3]
+Classification: logistic regression, naïve bayes, SVM, decision tree
+Regression: multiple regression, SVM
+Attribute importance: MDL
+Anomaly detection: one-class SVM
+Clustering: k-means, orthogonal partitioning
+Association: A Priori
+Feature extraction: NNMF
+
+Note: I don't personally endorse these choices, or even naming conventions. Just thought it made for another useful list.
+
+================================================================================================
+
+Linear regression
+Logistic regression
+k-means
+SVMs
+Random Forests
+Matrix Factorization/SVD
+Gradient Boosted Decision Trees/Machines
+Naive Bayes
+Artificial Neural Networks
+For the last one I'd let you pick one of the following:
+Bayesian Networks
+Elastic Nets
+Any other clustering algo besides k-means
+LDA
+Conditional Random Fields
+HDPs or other Bayesian non-parametric model
+
+
+=================================================================================================
+SVMs, neural nets, logistic regression, naive bayes, memory-based learning, random forests, decision trees, bagged trees, boosted trees, and boosted stumps
